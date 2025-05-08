@@ -15,6 +15,5 @@ This project provides a **web-based user interface** for a **Convolutional Neura
 
 ### 1. Clone the repository:
 ```bash
-git clone https://github.com/FatimaNSRN/cats-dogs-classifier-ui.git
-cd cats-dogs-classifier-ui
+git clone https://github.com/FatimaNsrn/cat-vs_dog-ui
 
